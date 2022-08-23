@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Eletrical and Computer Engineering, University of Cape Town, 2016
+* M.S. in Telecommunications, University of Cape Town, 2018
+* Ph.D in Computer Science, UCSB, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Software Engineering Intern
+  * Viasat
+  * Duties included: Pilot studies on how we can infer video QoE from QoS using machine learning in a production setting
+  * Supervisor: David Lerner
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+#* Fall 2015: Research Assistant
+  #* Github University
+  #* Duties included: Merging pull requests
+  #* Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* C#
+* Data Analysis
 
 Publications
 ======
@@ -54,6 +51,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
