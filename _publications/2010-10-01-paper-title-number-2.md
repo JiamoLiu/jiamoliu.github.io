@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 2019-12-01
 venue: 'Journal of Communications and Networks'
-paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8957709)'
+paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8957709'
 ---
 Data center in the fifth generation (5G) network will serve
 as a facilitator to move the wireless communication industry from
