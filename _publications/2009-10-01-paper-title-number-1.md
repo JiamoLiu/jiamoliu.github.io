@@ -5,7 +5,8 @@ permalink: /publication/2009-10-01-paper-title-number-1
 date: 2022-06-29
 venue: 'ACM COMPASS'
 paperurl: 'https://ebelding.cs.ucsb.edu/sites/default/files/publications/paulbeldingcompass2022_0.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+<!---
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'--->
 ---
 It is well documented that, in the United States (U.S.), the availability of Internet access is related to several demographic
 attributes. Data collected through end user network diagnostic tools, such as the one provided by the Measurement Lab
