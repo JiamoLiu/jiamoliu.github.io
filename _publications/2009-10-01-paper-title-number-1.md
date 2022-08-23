@@ -2,10 +2,9 @@
 title: "Characterizing Internet Access and Quality Inequities in California M-Lab Measurements"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-06-29
-venue: 'Journal 1'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://ebelding.cs.ucsb.edu/sites/default/files/publications/paulbeldingcompass2022_0.pdf)'
+venue: 'ACM COMPASS'
+paperurl: 'https://ebelding.cs.ucsb.edu/sites/default/files/publications/paulbeldingcompass2022_0.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 It is well documented that, in the United States (U.S.), the availability of Internet access is related to several demographic
@@ -21,7 +20,7 @@ lower than urban areas; (3) the COVID-19 pandemic had a varied impact on downloa
 attributes; and (4) the U.S. Federal Communication Commission’s (FCC’s) broadband speed data significantly overrepresents the download speed for rural and low-income communities compared to what is recorded through Speed
 Test.
 
-[Download paper here]([http://academicpages.github.io/files/paper1.pdf](https://ebelding.cs.ucsb.edu/sites/default/files/publications/paulbeldingcompass2022_0.pdf))
+[Download paper here](https://ebelding.cs.ucsb.edu/sites/default/files/publications/paulbeldingcompass2022_0.pdf)
 
 <!---
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
