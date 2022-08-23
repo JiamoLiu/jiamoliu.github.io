@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Summer 2022: Software Engineering Intern
-  * Viasat
+  * Interned at Viasat
   * Duties included: Pilot studies on how we can infer video QoE from QoS using machine learning in a production setting
   * Supervisor: David Lerner
 
