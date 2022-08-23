@@ -21,12 +21,12 @@ Work experience
   * Interned at Viasat
   * Duties included: Pilot studies on how we can infer video QoE from QoS using machine learning in a production setting
   * Supervisor: David Lerner
-
+<!---
 #* Fall 2015: Research Assistant
   #* Github University
   #* Duties included: Merging pull requests
   #* Supervisor: Professor Hub
-  
+  --->
 Skills
 ======
 * Python
