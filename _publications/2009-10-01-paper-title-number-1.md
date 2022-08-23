@@ -3,7 +3,7 @@ title: "Characterizing Internet Access and Quality Inequities in California M-La
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022
+date: 2022-06-29
 venue: 'Journal 1'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://ebelding.cs.ucsb.edu/sites/default/files/publications/paulbeldingcompass2022_0.pdf)'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
